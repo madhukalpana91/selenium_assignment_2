@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33875" started-at="2020-12-03T06:25:38Z" finished-at="2020-12-03T06:26:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33875" started-at="2020-12-03T06:25:38Z" finished-at="2020-12-03T06:26:12Z">
+      <class name="com.assignment2.testng.weblinksassignment2">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.assignment2.testng.weblinksassignment2@5e5792a0]" name="launchBrowser" is-config="true" duration-ms="3118" started-at="2020-12-03T01:25:38Z" finished-at="2020-12-03T01:25:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="checklinks()[pri:0, instance:com.assignment2.testng.weblinksassignment2@5e5792a0]" name="checklinks" duration-ms="30686" started-at="2020-12-03T01:25:41Z" finished-at="2020-12-03T01:26:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checklinks -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.assignment2.testng.weblinksassignment2@5e5792a0]" name="closeBrowser" is-config="true" duration-ms="56" started-at="2020-12-03T01:26:12Z" finished-at="2020-12-03T01:26:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.assignment2.testng.weblinksassignment2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
